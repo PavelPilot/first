@@ -9,4 +9,4 @@ else:
 
     print(f'Факториал {n}! = {p}')
 
-# LAST MESSAGE 2
+# LAST MESSAGE 3
